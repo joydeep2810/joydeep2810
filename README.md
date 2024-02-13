@@ -1,4 +1,4 @@
-# 💫 Joydeep:
+# 💫 Joydeep Das:
 ⭕ Hey there, I am Joydeep Das a pre-final year IT undergrad pursuing my Bachelor's Degree in Electronics and Communication.<br><br>⭕ I love to build projects around the ReactJS ecosystem and try to write scalable code.<br><br>⭕ Interested in learning System Design, advanced Backend technology, Rust.
 
 ---
